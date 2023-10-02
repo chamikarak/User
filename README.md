@@ -11,7 +11,6 @@ the startup of the application. The default admin login is,
 - B. Password: iAmAdmin
 
 students can log in and update their First name and Last name.
-
 - JWT Authentication
 - Database is postgressSQL.
 - Deployed with docker
